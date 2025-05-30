@@ -12,4 +12,4 @@ let promocoes = [
 //adicionado itens ao final da array
 promocoes.push("SSD 1TB", "mesa digitalizadora")
 
-console.log(promocoes)
+console.log("produtos em promoções:",promocoes)
