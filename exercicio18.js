@@ -12,4 +12,5 @@ let perifericos = [
   "fone com microfone"
 ]
 
+// juntando as duas listas
 console.log("Hardware e perifericos:", hardware.concat(perifericos));
