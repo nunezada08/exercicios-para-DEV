@@ -7,6 +7,7 @@ let presenca = [
 ]
 let pessoa = "Amanda Souza"
 
+// verificando se a pessoa esta na array
 if (presenca.includes(pessoa)) {
     console.log(`${pessoa} estava presente`)
 }else{
