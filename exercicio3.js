@@ -9,6 +9,7 @@ let producao = [
 
 let produtoRemovido
 
+// removendo ultimo item da array
 produtoRemovido = producao.pop()
 
 console.log(producao)
