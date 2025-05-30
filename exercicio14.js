@@ -9,4 +9,5 @@ let artigosBlog = [
   "Segurança em aplicações web"
 ]
 
+// separando os 4 primeiros itens da array
 console.log("4 artigos mais recentes:",artigosBlog.slice(0, 4))
