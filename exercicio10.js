@@ -7,6 +7,7 @@ let estoque = [
 ]
 let produto = "cadeira gamer"
 
+// verificando se possui o produto desejado na array
 if (estoque.includes(produto)) {
     console.log(`O produto "${produto}" está em estoque`)
 }else{
