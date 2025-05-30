@@ -9,5 +9,5 @@ let diasFaltas = [
   "Carlos – Quarta (semana 2)"
 ]
 
-
+//separando a primeira semana de ferias
 console.log("Primeira semana de ferias: ",diasFaltas.slice(0, 5))
