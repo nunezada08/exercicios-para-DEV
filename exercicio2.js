@@ -11,4 +11,4 @@ let cardapio = [
 // adicionando itens ao final da array
 cardapio.push("hambúrguer artesanal", "wrap de frango")
 
-console.log(cardapio)
+console.log("cardapio:",cardapio)
