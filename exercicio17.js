@@ -12,4 +12,5 @@ let usuariosSistemaB = [
   "marcelo.cardoso"
 ]
 
+// juntando as duas listas
 console.log("Todos os usuarios do sistema:", usuariosSistemaA.concat(usuariosSistemaB));
