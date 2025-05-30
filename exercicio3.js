@@ -7,9 +7,7 @@ let producao = [
   "roteador"
 ]
 
-let produtoRemovido
-
 // removendo ultimo item da array
-produtoRemovido = producao.pop()
+producao.pop()
 
 console.log("produtos:",producao)
