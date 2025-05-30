@@ -8,6 +8,8 @@ let atualizacoes = [
     "Banco de dados otimizado",
     "Script de segurança executado"
 ]
-  
+
+// invertendo a lista
 let atualizacoesMaisRecentes = atualizacoes.reverse()
+
 console.log(atualizacoesMaisRecentes)
